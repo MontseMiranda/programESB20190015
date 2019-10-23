@@ -75,8 +75,4 @@ As a partner at **Better Travel & Events** , I have had the pleasure of collabor
 
 <img src = "CURRICULUM GRAFICO.001.jpeg" width="1000">
 
-### **CE Events Service Portfolio** 
 
-
-<iframe src="service_portfolio.html" scrolling="no" style="width:100%;border:none;"
-height="1600"";></iframe>
