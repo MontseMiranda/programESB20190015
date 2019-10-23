@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
+	<style>
+		:root {
+  /* Set fade in duration */
+  --fade-time: 0.5s;
+}
+
+body {
+  margin: 0px;
+  padding: 0;
+  font-size: 14px;
+  font-family: "Helvetica Neue", Helvetica,Arial,sans-serif;
+  font-weight: 360;
+  line-height: 130%;
+  
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  border: #fff solid 1px;
+ 
+}
+
+.main-img img,
+.imgs img {
+  width: 100%;
+}
+
+.imgs {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 5px;
+}
+
+.imgs img {
+  cursor: pointer;
+}
+
+/* Fade in animation */
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
+.fade-in {
+  opacity: 0;
+  animation: fadeIn var(--fade-time) ease-in 1 forwards;
+}
+
+/* Media Queries */
+@media(max-width: 600px) {
+  .imgs {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+</style>
+</head>
+
+
+<body>
+  <div class="activities" style="margin: auto; padding: 0px;">   
+    <h3>Asia Gardens Hotel & Thai Spa</h3>                                              <!--insertar titulo-->
+    <p> This impressive Thai-style hotel is set in the Sierra Cortina Mountains, with magnificent views over the Costa Blanca. Surrounded by pine woods, it offers 7 outdoor pools and a spa. Asia Gardens Hotel & Thai Spa, features stylish rooms with free WiFi. The design is inspired by Bali, and kimonos and slippers are included.<p>
+
+    <p>Thai massages are available in the traditional stilt houses which are set in charming gardens with various Asian-style fountains and infinity pools. The spa is equipped with a heated indoor pool and hot tub, and there is also a fitness centre.</p>  
+
+    </p> The hotel's 4 restaurants include the Udaipur buffet restaurant and an à la carte Asian restaurant. There is also a Mediterranean and international restaurant, as well as 3 distinctive bars.</p> 
+
+                     <!--insertar el texto-->
+    <hr>
+  </div>
+	<div class="container">
+    <div class="main-img">
+      <img src="https://q-cf.bstatic.com/images/hotel/max1024x768/121/12167781.jpg" id="current">
+    </div>
+
+    <div class="imgs">                                          <!--insertar las fotos-->
+      <img src="https://q-cf.bstatic.com/images/hotel/max1024x768/121/12167781.jpg">
+      <img src="https://q-cf.bstatic.com/images/hotel/max1024x768/800/80065963.jpg">
+      <img src="https://q-cf.bstatic.com/images/hotel/max1024x768/121/12167759.jpg">
+      <img src="https://r-cf.bstatic.com/images/hotel/max1024x768/121/12167665.jpg">
+      <img src="https://q-cf.bstatic.com/images/hotel/max1024x768/121/12167659.jpg">
+      <img src="https://www.asiagardens.es/res/uploads/20151204140319-01-habdeluxegaleria-1800x7001.jpg">
+      <img src="https://www.asiagardens.es/res/uploads/20151206173651-01-udaipurgaleria-1800x7002.jpg">
+      <img src="https://www.asiagardens.es/res/uploads/20151206181119-03-kohgaleria-1800x7001.jpg">
+    </div>
+  </div>
+  <hr>
+  
+  <section class="container">
+
+<div class ="one" style="float: left;
+    padding: 10px; background-color: rgba(238, 238, 238, 0.6)">
+<p><i class="fa fa-map-o" style="font-size:20px;color:orange;"></i>   <!--insertar la info relevante a los iconos-->
+<span style="margin: 0 20px; font-size:14px"><b> Location:</b> 46km from Alicante Airport</p></span>
+<p><i class="fa fa-h-square" style="font-size:20px;color:orange;"></i> 
+<span style="margin: 0 22px; font-size:14px"><b> Category:</b> 5 stars</p></span>
+<p><i class="fa fa-cutlery" style="font-size:20px;color:orange;"></i> 
+<span style="margin: 0 22px; font-size:14px"><b> Restaurants:</b> 4 Restaurants and 3 bars</p></span>
+<p><i class="fa fa-wifi" style="font-size:20px;color:orange;"></i> 
+<span style="margin: 0 20px; font-size:14px"><b> Wifi:</b> Available in rooms and common areas</p></span>
+<p><i class="fa fa-users" style="font-size:20px;color:orange;"></i> 
+<span style="margin: 0 14px"><b>Nr. Rooms:</b>100 single, 50 twins</p></span>
+
+</div>
+
+<div class ="two" style="float: right;
+    padding: 10px; background-color: rgba(238, 238, 238, 0.6); ">
+<p><i class="fa fa-wheelchair" style="font-size:20px;color:orange;"></i>    <!--insertar la info relevante a los iconos-->
+<span style="margin: 0 21px, font-size:14px"><b> Handicapped facilities: </b>Yes</p></span>
+<p><i class="fa fa-shower" style="font-size:20px;color:orange;"></i> 
+<span style="margin: 0 20px; font-size:14px"><b> Swimmingpool:</b> Yes. Outdoor</p></span>
+<p><i class="fa fa-clock-o" style="font-size:20px;color:orange;"></i> 
+<span style="margin: 0 21px; font-size:14px"><b> Check in/out:</b> 3pm /noon</p></span>
+<p><i class="fa fa-coffee" style="font-size:20px;color:orange;"></i> 
+<span style="margin: 0 20px; font-size:14px"><b> Meeting rooms:</b> 14 rooms: min 30 pax, max 800 pax</p></span>
+</div>
+</section>
+</div> 
+	<script>
+		const current = document.querySelector('#current');
+const imgs = document.querySelector('.imgs');
+const img = document.querySelectorAll('.imgs img');
+const opacity = 0.6;
+
+// Set first img opacity
+img[0].style.opacity = opacity;
+
+imgs.addEventListener('click', imgClick);
+
+function imgClick(e) {
+  // Reset the opacity
+  img.forEach(img => (img.style.opacity = 1));
+
+  // Change current image to src of clicked image
+  current.src = e.target.src;
+
+  // Add fade in class
+  current.classList.add('fade-in');
+
+  // Remove fade-in class after .5 seconds
+  setTimeout(() => current.classList.remove('fade-in'), 500);
+
+  // Change the opacity to opacity var
+  e.target.style.opacity = opacity;
+}
+
+	</script>
+</body>
+</html>
