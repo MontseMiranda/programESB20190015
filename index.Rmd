@@ -1,7 +1,7 @@
 ---
 title: "F1 / BARCELONA GROUP"
 author: "PRINCESS YACHTS"
-date: 'MAY 10TH, 2019'
+date: 'MAY 10TH, 2020'
 output:
  
   html_document:
@@ -39,6 +39,9 @@ library(timevis)
 
 ### **Montserrat tour** 
 
+Have you ever heard about Montserrat Abbey? It has a really long history. It was built on 1025! It has almost 1.000 year history. Montserrat Abbey was a strategic zone during the wars on the 17th and 18th century, as well as during the Spanish civil war,  so clergy had to leave the Monastery as it was occuped by the military forces.
+Montserrat Abbey is located in a Mountain rage called Montserrat as well. In addition to the religious spirit that belongs itself, Montserrat hasa traditional legend since long time ago. Legend says that on the 11th century a group of shepherds saw a strong light up in the sky. Since then many people avouch that they have seen UFOs more than once
+ 
 This is a full day tour. The tour starts in Barcelona, in the hotel where guests are acomodated, in this case in Port Vell, as guests will be accomodated in their yatches. 
 
 The Montserrat tour includes: 
@@ -59,7 +62,9 @@ The Montserrat tour includes:
 
 ### **Gaudí tour**
 
-Gaudí was one of the best-knwon architect in Barcelona. Their buildings still being a really tourist attraction. 
+Gaudí was one of the best-knwon architect in Barcelona. Their buildings still being a really tourist attraction and is the best artist of the "Catalan Modernism".
+A fact you won't know is that 7 of his works has been declared a World Heritage by the UNESCO. However, a courious fact, is that his best and well-known work, La Sagrada Familia, is still under construction! It is expected to be finished by 2026... and it was started in 1882!!
+Also, the Papa Benedicto XVI blessed the building in 2010 turning from "Cathedral" into "Basilica" and named the 21st century Basilica.
 
 This activity includes:
 
@@ -81,7 +86,8 @@ This activity includes:
 
 ### **Old town tour**{.tabset .tabset-fade.}
 
-Within Barcelona's Old Town, the political and geographic centre of the city is located. Starting 133 before Christ with the Romans, and the dominion of the Visigoths, the Moors and the crown of Aragon through to the Spanish Civil War and the modern Barcelona.
+Within Barcelona's Old Town, the political and geographic centre of the city is located. Starting 133 before Christ with the Romans, and the dominion of the Visigoths, the Moors and the crown of Aragon through the Spanish Civil War and the modern Barcelona.
+This oldtown was enclosed by large walls during the Romans century and was restored by the Count of Barcelona. However, if you do a walk through it, you'll be able to see some constructions that remain well conserved, like the "Catedral de la Sant Creu i Santa Eulària", St. Jaume square, etc.
 
 This tour includes:
 
@@ -122,7 +128,7 @@ This activity includes
 
 * **Lunch**
 
-The activity will start with private tour of the **Masia Roqueta farmhouse**, which dates back to the **XII century**. The group will go deep into the basement of the house and explore its old cellar, which has been restored to its original state. It is the jewel in the crown of wine history and culture in this region. It is a tour that will take the groui back in time 
+The activity will start with private tour of the **Masia Roqueta farmhouse**, which dates back to the **XII century**. The group will go deep into the basement of the house and explore its old cellar, which has been restored to its original state. It is the jewel in the crown of wine history and culture in this region. It is a tour that will take the group back in time. 
 
 After this a **private tour of the winery and the wine-ageing cellar** where Abadal wines are made today and a uided tasting session of high-end Abadal wines. And we will finish the activity with a lunch in an exclusive venue. 
 
@@ -138,10 +144,11 @@ After the lunch, we will take our bus, which transfer the group back to Barcelon
 ### **Indoor Karting**
 
 As requested, we offer you a driving experience in Indoor Karting Barcelona.
-A renewed look of Karting in Barcelona, where guests will enjoy of a competition in two different groups.
-As 30 is a really big group to compete at the same time we will divide the group in 2 groups of 15. 
-The **Grand Prix** is an individual and competitive race. The event has a practice session + classificatories session + race with starting lines. 
-The group will have the track in exclusivisity and will be completely personalized. There will be an speaker retransmitting the race and a celebration in the podium with cava and trophies for the winners. 
+A renewed look of Karting in Barcelona, where guests will enjoy of a competition in two different groups. It was declared as the best Indoor Karting in Spain and included in the TOP-10 of Europe. You'll feel you are driving a real F-1 car, as it has some curves that simulates the F-1 circuits *Spa-Francorchaps* and *Indianapolis*! And if you combine it with our speaker you'll feel you are Lewis Hamilton!
+
+As 30 people is a really big group to compete at the same time we will divide the group in 2 groups of 15 people each. 
+The **Grand Prix** is an individual and competitive race. The event has a practice session + qualifiers session + race with starting lines. 
+The group will have the track in exclusivisity and will be completely personalized! There will be an speaker retransmitting the race and a celebration in the podium with cava and trophies for the winners. 
 
 This activity includes:
 
@@ -159,7 +166,14 @@ This activity includes:
 
 ### **La Roca Village shopping experience**
 
-La Roca Village is the main shopping spot in Catalonia. An outlet with many shops in a really long street. 
+La Roca Village is the main shopping spot in Catalonia.This shopping center features more than 140 shops and more than 160 clothing brands! The place is a large street that simulates an samll town, full of small squares with trees and *small houses* filled with all kind of clothes! Besides the shopping experience it is also a claim for the tourists because, as we told, it is a really nice place to visit and shopping!
+
+**_Our clients will have free access exceptionally to the VIP Lounge and will be received with a glass of cava, hands free shopping service inclusive_** 
+
+<img src = "rocaplaza.jpg" width="100%">
+
+<br>
+
 Guests will have fre time to spend their money with the most fashion clothes during 2 hours. After this, they will have a lunch booked at restaurant *Pasarela* located inside the village. 
 
 This activity includes:
@@ -178,7 +192,7 @@ This activity includes:
 ### La Pedrera Night Experience
 
 There is the possibility to have a night experience in La Pedrera. 
-LA Pedrera - Casa Milà features the possibility to combine the stunning night view with a cocktail or dinner at 4Gats o Gaudí's room of La Pedrera.
+LA Pedrera - Casa Milà features the possibility to combine the stunning night view with a cocktail or dinner at 4Gats o Gaudí's room of La Pedrera. What else can improve your stay if Barcelona if not this?! Completely exclusive, you'll enjoy your dinner and the lights show in the middle of Passeig de Gracia and in the top of this Gaudí's monument.
 They do this as public, but there is the possibility to privatise it. 
 This experience includes:
 
@@ -197,6 +211,21 @@ This experience includes:
 <img src = "pedreranight.jpg" width="100%"> 
 
 <img src = "pedreranight2.jpg" width="100%"> 
+
+### Soho House Night
+
+Enjoy a lovely evening at Soho House Barcelona! Soho House is a 5*hotel. There is a VIP private club, which is one of the most exclusive in the world! It belongs to the hotel, and it is really difficult to join it. Some famous people like Beckham family, Rihanna, Cristiano Ronaldo and Elton John had been seen in some of the 18 clubs that belong to this brand. Miami, Chicago, New York, London and Barcelona are some of the spots this clubs are located. 
+
+What we offer you is a "Night in this hotel". As this is a private club, some of the areas are completely restricted, as are only allowed for those who are members.
+During this night, the group will have La Mercé room in exclusivity for them. La Mercé room featrues a lot of artworks with a marble bar. 
+
+Included:
+
+* **Rental of La Mercé room 20h-00h**
+* **Drink package / open bar**
+
+<img src = "merce.jpg" width="100%">
+
 
 *****
 
